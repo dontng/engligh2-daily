@@ -20,6 +20,7 @@ scripts/src-nav.sh     # Daily 导航脚本
 archive-e2/            # 2016—2025 英语二真题 PDF
 e2-ocr/                # 英语二完整套卷 OCR
 e2-analysis/           # 英语二阅读分析
+writing/               # 英语二大小作文的真实语料与真题迁移训练
 ```
 
 ## Codex 应该怎么读
@@ -31,7 +32,8 @@ e2-analysis/           # 英语二阅读分析
 3. `STANDARD.md`：确认真题、Daily、Reddit 的训练分工和英语密度原则。
 4. `suggest/0812-129-days-to-75.md`：确认当前129天计划、真题与黄皮书闭环和前后50天分工。
 5. `archive-e2/`、`e2-ocr/`、`e2-analysis/`：进入完整真题、OCR和年度分析。
-6. 处理 Daily、新句批改或追溯旧证据时，再读取 `src/` 和 `archive-src/`。
+6. 处理大小作文时，读取 `writing/`，用 Tim Cook 训练小作文的人际功能，用 MKBHD 训练大作文的变化与比较。
+7. 处理 Daily、新句批改或追溯旧证据时，再读取 `src/` 和 `archive-src/`。
 
 真题任务按需要直接打开 `archive-e2/` 中对应真题 PDF、`e2-ocr/` 中的完整 OCR 或 `e2-analysis/` 中的年度分析。
 
